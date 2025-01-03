@@ -33,7 +33,7 @@ function Board() {
 <<<<<<< HEAD
     status = "Winner : " + winner;
 =======
-    status = "Winner: " + winner;
+    status = "Winner : " + winner;
 >>>>>>> 53c6a238ccd44184192700c29651b613dea7361f
   else
     status = "Next player : " + (xIsNext ? "X" : "O");
